@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 대림바스 메인페이지 제 </br>
+- 대림바스 메인페이지 제작 </br>
 - 바로가기 : https://dandanii22.github.io/daelimbath/
 
 ## 🛠 활용 Skills 
